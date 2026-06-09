@@ -32,6 +32,9 @@ wheels/
 # Data
 data/
 
+# Generated visualizations
+visualizations/
+
 # IDE
 .vscode/
 .idea/
